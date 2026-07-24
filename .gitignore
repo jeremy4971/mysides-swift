@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.Trashes
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Makefile release build output (scratch path is "build/", see Makefile)
+build/
+
+# VS Code
+.vscode/
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Editor swap files
+*.swp
+
